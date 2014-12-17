@@ -1,2 +1,2 @@
-mygithubpage
+sq10 website
 ============
