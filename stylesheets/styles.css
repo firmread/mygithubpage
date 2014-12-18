@@ -103,6 +103,12 @@ header {
   
 */
   
+  text-align:center;
+  
+  
+}
+header img{
+  max-height:50px;
 }
 
 header ul {
