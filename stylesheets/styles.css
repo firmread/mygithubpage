@@ -199,6 +199,12 @@ footer {
   bottom:50px;
 }
 
+
+#mc_embed_signup{
+	background-color:transparent;
+}
+
+
 @media print, screen and (max-width: 960px) {
   
   div.wrapper {
@@ -296,3 +302,4 @@ video {
   #bgvid { display: none; }
 }
 
+                                
