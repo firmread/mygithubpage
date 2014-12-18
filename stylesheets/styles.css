@@ -113,6 +113,10 @@ header div{
   max-height:30vh;
 }
 
+header div img{
+  max-height:85%; 
+}
+
 header ul {
   list-style:none;
   height:40px;
